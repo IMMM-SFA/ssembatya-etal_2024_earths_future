@@ -6,7 +6,7 @@ Future Grid Reliability**
 Henry Ssembatya<sup>1\*</sup>, Jordan D. Kern<sup>1</sup>, Konstantinos Oikonomou<sup>2</sup>, Nathalie Voisin
 <sup>2</sup>, Casey D. Burleyson<sup>2</sup>, and Kerem Z. Akdemir<sup>1</sup>
 
-<sup>1 </sup> North Carolina State University, Raleigh, NC, USA
+<sup>1 </sup> North Carolina State University, Raleigh, NC, USA   
 <sup>2 </sup> Pacific Northwest National Laboratory, Richland, WA, USA  
 
 \* corresponding author: hssemba@ncsu.edu
