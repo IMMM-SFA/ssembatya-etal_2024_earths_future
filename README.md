@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10475841.svg)](https://doi.org/10.5281/zenodo.10475841) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10150609.svg)](https://doi.org/10.5281/zenodo.10150609)
+
 # ssembatya-etal_2023_tbd
 
 **The Dual Impacts of Space Heating Electrification and Climate Change Drive Uncertainties in Peak Load Behavior and 
@@ -36,18 +38,17 @@ Ssembatya et al. 2023 - TBD [Code]. Zenodo. DOI TBD.
 
 ## Data references
 ### Input data
-|       Dataset       |               Repository Link                |               DOI                |
-|:-------------------:|:--------------------------------------------:|:--------------------------------:|
-|   GCAM-USA Output   | https://data.msdlive.org/records/43sy2-n8y47 | https://doi.org/10.57931/1989373 |
+|       Dataset                                   |               Repository Link                        |               DOI                |
+|:-----------------------------------------------:|:----------------------------------------------------:|:--------------------------------:|
+|   White et al., 2021 model output               | https://data.mendeley.com/datasets/v8mt9d3v6h/1      | 10.17632/v8mt9d3v6h.1            |
+|   Burleyson et al., 2023 Meteorology datasets   | https://www.osti.gov/biblio/1960530                  | https://doi.org/10.57931/1960530 |
+|   ERCOT historical reported load                | https://www.ercot.com/gridinfo/load/load_hist        |                                  |
 
 ### Output data
-The output of the TELL model is stored in the data repository linked below. The post-processed files (resulting from the
-analysis scripts itemized below) are stored in the /data directory in this meta-repository.
 
-|       Dataset       |                                Repository Link                                |                   DOI                   |
-|:-------------------:|:-----------------------------------------------------------------------------:|:---------------------------------------:|
-|     TELL Output     |                 https://data.msdlive.org/records/r0rvc-kjw89                  |    https://doi.org/10.57931/2228460     |
-| Post-Processed Data | https://github.com/IMMM-SFA/burleyson-etal_2023_applied_energy/tree/main/data | https://doi.org/10.5281/zenodo.10278502 |
+|       Dataset                                           |   Repository Link                            |                   DOI           |
+|:-------------------------------------------------------:|---------------------------------------------:|:-------------------------------:|
+|     ML models load output & GO ERCOT simulation runs    | https://zenodo.org/records/10150610          | 10.5281/zenodo.10150609         |
 
 
 ## Contributing modeling software
@@ -65,9 +66,6 @@ should only have to adjust the input directories to reflect the paths to whereve
 The accompanying data repository already contains the output from the TELL model so you can skip rerunning the TELL 
 model if you want to save time.
 
-|                Script Name                 |                                Description                                 |
-|:------------------------------------------:|:--------------------------------------------------------------------------:|
-|        tell_runs_exp_group_b.ipynb         | Runs the TELL model based on the GCAM-USA outputs and TGW weather forcing  |
 
 
 ## Reproduce my figures
