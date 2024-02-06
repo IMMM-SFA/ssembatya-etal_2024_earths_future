@@ -56,14 +56,26 @@ Ssembatya et al. 2023 - TBD [Code]. Zenodo. DOI TBD.
 |  Model              | Version |         Repository Link          | DOI |
 |:-------------------:|:-------:|:----------------------------------------------------------------:|:--------------------------------:|
 | GCAM-USA            |  v5.3   | https://data.msdlive.org/records/r52tb-hez28                     | https://doi.org/10.57931/1960381 |
-| GO Model framework  |         | https://iopscience.iop.org/article/10.1088/2753-3751/ad1751/meta |                                  |
+| GO Model framework (Akdemir et al., 2023 |         | https://iopscience.iop.org/article/10.1088/2753-3751/ad1751/meta |                                  |
 
 ## Reproduce my experiment
 Clone this repository to get access to the scripts used in fitting the Machine Learning (ML) models, as well as predicting
 residential and total load under different scenarios. Download the version of the GO ERCOT model version used in this experiment 
 (https://zenodo.org/doi/10.5281/zenodo.10475841). The accompanying output data contains all the output datasets from these model
-runs.
+runs. 
+Run the following scripts in the workflow directory to process the raw data used in this experiment:
 
+| Script Number | Script Name | Purpose |
+| --- | --- | --- |
+| 1 | `texas_ht_pred_3_mlp_github.py` | Parameterize the ML model, generate load data outputs under different scenarios |
+| 2 | `peaking_results_peak_hourly_total.py` | Combines the residential and non-residential load to obtain the total load that is later used as input in GO ERCOT (csv files ending '_load_tot.csv') |
+
+Run the following scripts in the GO ERCOT model.
+| Script Number | Script Name | Purpose |
+| --- | --- | --- |
+| 1 | `reduced_network_data_allocation_hecc.py` | Create different subfolders each containing a scenario year of the model parameterization. |
+| 2 | `ERCOTDataSetup.py` | Creates the ERCOT_data.dat file under each subfolder|
+| 3 | `ERCOT_simple.py` | Runs the DC OPF model as an LP |
 
 
 ## Reproduce my figures
