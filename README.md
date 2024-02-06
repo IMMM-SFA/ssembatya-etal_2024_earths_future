@@ -47,25 +47,22 @@ Ssembatya et al. 2023 - TBD [Code]. Zenodo. DOI TBD.
 
 ### Output data
 
-|       Dataset                                           |   Repository Link                            |                   DOI           |
-|:-------------------------------------------------------:|---------------------------------------------:|:-------------------------------:|
-|     ML models load output & GO ERCOT simulation runs    | https://zenodo.org/records/10150610          | 10.5281/zenodo.10150609         |
+|       Dataset                                           |   Repository Link                            |                   DOI                             |
+|:-------------------------------------------------------:|---------------------------------------------:|:-------------------------------------------------:|
+|     ML models load output & GO ERCOT simulation runs    | https://zenodo.org/records/10150610          | https://zenodo.org/doi/10.5281/zenodo.10150609    |
 
 
 ## Contributing modeling software
-|  Model   | Version |         Repository Link          | DOI |
-|:--------:|:-------:|:--------------------------------:|:---:|
-| GCAM-USA |  v5.3   | https://data.msdlive.org/records/r52tb-hez28 | https://doi.org/10.57931/1960381 |
-
+|  Model              | Version |         Repository Link          | DOI |
+|:-------------------:|:-------:|:----------------------------------------------------------------:|:--------------------------------:|
+| GCAM-USA            |  v5.3   | https://data.msdlive.org/records/r52tb-hez28                     | https://doi.org/10.57931/1960381 |
+| GO Model framework  |         | https://iopscience.iop.org/article/10.1088/2753-3751/ad1751/meta |                                  |
 
 ## Reproduce my experiment
-Clone this repository to get access to the notebooks used to execute the TELL runs for this experiment. You'll also need 
-to download the input files from the accompanying data repository (https://doi.org/10.57931/2228460) and the weather 
-forcing data (https://doi.org/10.57931/1960530). Once you have the input datasets downloaded you can use the following 
-notebooks to rerun the TELL model and produce the post-processed data used in this analysis. For the TELL runs you 
-should only have to adjust the input directories to reflect the paths to wherever you choose to store the input files. 
-The accompanying data repository already contains the output from the TELL model so you can skip rerunning the TELL 
-model if you want to save time.
+Clone this repository to get access to the scripts used in fitting the Machine Learning (ML) models, as well as predicting
+residential and total load under different scenarios. Download the version of the GO ERCOT model version used in this experiment 
+(https://zenodo.org/doi/10.5281/zenodo.10475841). The accompanying output data contains all the output datasets from these model
+runs.
 
 
 
