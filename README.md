@@ -79,7 +79,7 @@ Run the following scripts in the GO ERCOT model.
 
 
 ## Reproduce my figures
-Use the following notebooks to reproduce the main and supplementary figures used in this publication.
+Use the following scripts to reproduce figures used in this publication.
 
 | Figure Numbers |                Script Name                              |                                  Description                                               | 
 |:--------------:|:-------------------------------------------------------:|:------------------------------------------------------------------------------------------:|
