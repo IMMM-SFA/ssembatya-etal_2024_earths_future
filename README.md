@@ -81,6 +81,6 @@ Run the following scripts in the GO ERCOT model.
 ## Reproduce my figures
 Use the following notebooks to reproduce the main and supplementary figures used in this publication.
 
-| Figure Numbers |                Script Name                 |                                  Description                                   | 
-|:--------------:|:------------------------------------------:|:------------------------------------------------------------------------------:|
-|       2        |        difference_calculation.ipynb        |             Shows how the mean and peak differences are calculated             |
+| Figure Numbers |                Script Name                              |                                  Description                                               | 
+|:--------------:|:-------------------------------------------------------:|:------------------------------------------------------------------------------------------:|
+|       1        |     minmax_temp_withhistoricals_from1980_paper.py       |      Minimum and maximum hourly annual temperature under historical and climate scenarios  |
