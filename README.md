@@ -83,4 +83,4 @@ Use the following notebooks to reproduce the main and supplementary figures used
 
 | Figure Numbers |                Script Name                              |                                  Description                                               | 
 |:--------------:|:-------------------------------------------------------:|:------------------------------------------------------------------------------------------:|
-|       1        |     `minmax_temp_withhistoricals_from1980_paper.py'     |      Minimum and maximum hourly annual temperature under historical and climate scenarios  |
+|       1        |     `minmax_temp_withhistoricals_from1980_paper.py`     |      Minimum and maximum hourly annual temperature under historical and climate scenarios  |
