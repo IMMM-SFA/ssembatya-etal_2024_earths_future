@@ -22,7 +22,7 @@ electricity demand for cooling. Uncertainty regarding the timing and magnitude o
 questions about how they will jointly affect the seasonality of peak (highest) demand, firm capacity requirements, and 
 grid reliability. This study investigates the net effects of residential space heating electrification and climate 
 change on long-term demand patterns and load shedding potential, using climate change projections, a predictive load 
-model, and a DC OPF model of the Texas grid. Results show that full adoption of more efficient heat pumps could 
+model, and a DC OPF model of the Texas grid. Results show that full electrification via adoption of more efficient heat pumps could 
 significantly improve reliability, particularly under hotter futures. Less efficient heat pumps may result in more 
 severe winter peaking events and increased reliability risks. As heating electrification intensifies, system planners 
 will need to balance the potential for greater resource adequacy risk caused by shifts in seasonal peaking behavior 
@@ -67,7 +67,7 @@ Run the following scripts in the workflow directory to process the raw data used
 
 | Script Number | Script Name | Purpose |
 | --- | --- | --- |
-| 1 | `texas_ht_pred_3_mlp_github.py` | Parameterize the ML model, generate load data outputs under different scenarios |
+| 1 | `texas_ht_pred_3_mlp_github.py` | Parameterize the ML model, generate predictions of residential load under different scenarios, and the non-residential load |
 | 2 | `peaking_results_peak_hourly_total.py` | Combines the residential and non-residential load to obtain the total load that is later used as input in GO ERCOT (csv files ending '_load_tot.csv') |
 
 Run the following scripts in the GO ERCOT model.
