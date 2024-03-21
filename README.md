@@ -35,7 +35,7 @@ Submitted to *TBD* - December 2023.
 
 ## Code reference
 Ssembatya, H., J. D. Kern, K. Oikonomou, N. Voisin, C. D. Burleyson, and K. Z. Akdemir (2023). Supporting code for 
-Ssembatya et al. 2023 - TBD [Code]. Zenodo. DOI TBD.
+Ssembatya et al. 2024 - TBD [Code]. Zenodo. DOI https://doi.org/10.5281/zenodo.10475965.
 
 ## Data references
 ### Input data
