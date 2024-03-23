@@ -88,7 +88,7 @@ Use the following scripts to reproduce figures used in this publication.
 |       4        |     `pk_seas_hrly_res_results_visuals_ssp3_paper.py`     |      Season of peak hourly residential load for all future scenario simulations  |
 |       5        |     `pk_seas_hrly_tot_results_visuals_ssp3_paper.py`     |      Season of peak hourly total load for all future scenario simulations  |
 |       7        |     `peak_totload_ssp3_paper.py`     |      Peak hourly total load for all future scenario simulations  |
-|       8a        |     `lol_distribution_rcph5hotssp3base_paper.py`     |      Nodal location of loss of load on rcp85hotterssp3_base_3rd_aug_2091  |
-|       8b        |     `lol_distribution_rcph5hotssp3base_paper.py`     |      Nodal location of loss of load on rcp85hotterssp3_base_3rd_aug_2091  |
+|       8a        |     `lol_distribution_rcph5hotssp3base_paper.py`     |      Nodal location of loss of load on simulation day rcp85hotterssp3_base_3rd_aug_2091  |
+|       8b        |     `ercot_temperature_maps_paper.ipynb`     |      Max and min hourly temperature distribution on selected simulation days  |
 |       9        |     `lol_visuals_manuscript_SSP3_paper.py`     |      Cumulative loss of load for all scenarios  |
 
