@@ -56,7 +56,7 @@ Ssembatya et al. 2024 - TBD [Code]. Zenodo. DOI https://doi.org/10.5281/zenodo.1
 |  Model              | Version |         Repository Link          | DOI |
 |:-------------------:|:-------:|:----------------------------------------------------------------:|:--------------------------------:|
 | GCAM-USA            |  v5.3   | https://data.msdlive.org/records/r52tb-hez28                     | https://doi.org/10.57931/1960381 |
-| GO Model framework (Akdemir et al., 2023 |         | https://iopscience.iop.org/article/10.1088/2753-3751/ad1751/meta |                                  |
+| GO Model framework (Akdemir et al., 2023) paper and code reference |         | https://iopscience.iop.org/article/10.1088/2753-3751/ad1751/meta |                                  |
 
 ## Reproduce my experiment
 Clone this repository to get access to the scripts used in parameretizing the Machine Learning (ML) models used to predict
