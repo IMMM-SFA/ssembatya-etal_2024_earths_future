@@ -31,7 +31,7 @@ alongside the benefits (improved efficiency and reductions in emissions).
 ## Journal reference
 Ssembatya, H., J. D. Kern, K. Oikonomou, N. Voisin, C. D. Burleyson, and K. Z. Akdemir (2023). The dual impacts of 
 space heating electrification and climate change drive uncertainties in peak load behavior and future grid reliability. 
-Submitted to *TBD* - December 2023.
+Submitted to Earth's Future - Jan 2024
 
 ## Code reference
 Ssembatya, H., J. D. Kern, K. Oikonomou, N. Voisin, C. D. Burleyson, and K. Z. Akdemir (2023). Supporting code for 
