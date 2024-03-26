@@ -55,7 +55,7 @@ Ssembatya et al. 2024 - TBD [Code]. Zenodo. DOI https://doi.org/10.5281/zenodo.1
 ## Contributing modeling software
 |  Model              | Version |         Repository Link          | DOI |
 |:-------------------:|:-------:|:----------------------------------------------------------------:|:--------------------------------:|
-| Jones et al., |         | https://www.osti.gov/biblio/1885756 |  https://doi.org/10.57931/1885756                                 |
+| Jones et al., 2022 IM3/HyperFACETS Thermodynamic Global Warming (TGW) Simulation Datasets |         | https://www.osti.gov/biblio/1885756 |  https://doi.org/10.57931/1885756                                 |
 | GO Model framework (Akdemir et al., 2023) paper and code reference |         | https://iopscience.iop.org/article/10.1088/2753-3751/ad1751/meta |
 
 
