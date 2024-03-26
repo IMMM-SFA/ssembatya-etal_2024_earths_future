@@ -1,5 +1,5 @@
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10475841.svg)](https://doi.org/10.5281/zenodo.10475841) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10150609.svg)](https://doi.org/10.5281/zenodo.10150609)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10150610.svg)](https://doi.org/10.5281/zenodo.10150610) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10475965.svg)](https://doi.org/10.5281/zenodo.10475965)
 
 # ssembatya-etal_2024_earths_future
 
