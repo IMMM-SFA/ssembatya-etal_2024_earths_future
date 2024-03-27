@@ -42,36 +42,34 @@ Ssembatya et al. 2024 - Earth's Future [Code]. Zenodo. https://doi.org/10.5281/z
 |       Dataset                                   |               Repository Link                        |               DOI                |
 |:-----------------------------------------------:|:----------------------------------------------------:|:--------------------------------:|
 |   White et al., 2021 model output               | https://data.mendeley.com/datasets/v8mt9d3v6h/1      | https://doi.org/10.17632/v8mt9d3v6h.1            |
-| Jones et al., 2022 IM3/HyperFACETS Thermodynamic Global Warming (TGW) simulation | https://tgw-data.msdlive.org | https://doi.org/10.1038/s41597-023-02485-5 |
+| Jones et al., 2022 IM3/HyperFACETS Thermodynamic Global Warming (TGW) simulations | https://tgw-data.msdlive.org | https://doi.org/10.57931/1885756 |
 |   Burleyson et al., 2023 meteorology datasets   | https://data.msdlive.org/records/cnsy6-0y610 | https://doi.org/10.57931/1960530 |
 |   ERCOT historical reported load                | https://www.ercot.com/gridinfo/load/load_hist        |                                  |
 
 ### Output data
-
 |       Dataset                                           |   Repository Link                            |                   DOI                             |
 |:-------------------------------------------------------:|---------------------------------------------:|:-------------------------------------------------:|
-|     ML models load output & GO ERCOT simulation runs    | https://zenodo.org/records/10150610          | https://zenodo.org/doi/10.5281/zenodo.10150609    |
+|     ML models load output & GO ERCOT simulation runs    | https://zenodo.org/records/10150610          | https://doi.org/10.5281/zenodo.10150609 |
 
 
 ## Contributing modeling software
 |  Model              | Version |         Repository Link          | DOI |
 |:-------------------:|:-------:|:----------------------------------------------------------------:|:--------------------------------:|
-| GO Model framework (Akdemir et al., 2023) paper and code reference |         | https://iopscience.iop.org/article/10.1088/2753-3751/ad1751/meta |
+| Akdemir et al., 2023 Grid Operations (GO) modeling framework | TBD | https://zenodo.org/records/10475965 | https://doi.org/10.5281/zenodo.10475841 |
 
 
 ## Reproduce my experiment
 Clone this repository to get access to the scripts used in parameretizing the Machine Learning (ML) models used to predict
 residential and total load under different scenarios. Download the version of the GO ERCOT model version used in this experiment 
-(https://zenodo.org/doi/10.5281/zenodo.10475841). The accompanying output data contains all the output datasets from these model
-runs. 
-Run the following scripts in the workflow directory to process the raw data used in this experiment:
+(https://doi.org/10.5281/zenodo.10475841). The accompanying output data contains all the output datasets from these model
+runs. Run the following scripts in the workflow directory to process the raw data used in this experiment:
 
 | Script Number | Script Name | Purpose |
 | --- | --- | --- |
 | 1 | `texas_ht_pred_3_mlp_github.py` | Parameterize the ML model, generate datasets (predictions) of residential load under different scenarios, and the non-residential load |
 | 2 | `peaking_results_peak_hourly_total.py` | Combines the residential and non-residential load to obtain the total load datasets |
 
-Run the following scripts in the GO ERCOT model.
+Run the following scripts for the GO ERCOT model.
 | Script Number | Script Name | Purpose |
 | --- | --- | --- |
 | 1 | `reduced_network_data_allocation_hecc.py` | Create different subfolders (using a 150 node reduced topology) each containing a scenario year of the model parameterization. |
