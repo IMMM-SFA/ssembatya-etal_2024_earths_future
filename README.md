@@ -41,8 +41,9 @@ Ssembatya et al. 2024 - Earth's Future [Code]. Zenodo. https://doi.org/10.5281/z
 ### Input data
 |       Dataset                                   |               Repository Link                        |               DOI                |
 |:-----------------------------------------------:|:----------------------------------------------------:|:--------------------------------:|
-|   White et al., 2021 model output               | https://data.mendeley.com/datasets/v8mt9d3v6h/1      | 10.17632/v8mt9d3v6h.1            |
-|   Burleyson et al., 2023 Meteorology datasets   | [https://www.osti.gov/biblio/1960530](https://data.msdlive.org/records/cnsy6-0y610)                  | https://doi.org/10.57931/1960530 |
+|   White et al., 2021 model output               | https://data.mendeley.com/datasets/v8mt9d3v6h/1      | https://doi.org/10.17632/v8mt9d3v6h.1            |
+| Jones et al., 2022 IM3/HyperFACETS Thermodynamic Global Warming (TGW) simulation | https://tgw-data.msdlive.org | https://doi.org/10.1038/s41597-023-02485-5 |
+|   Burleyson et al., 2023 meteorology datasets   | https://data.msdlive.org/records/cnsy6-0y610 | https://doi.org/10.57931/1960530 |
 |   ERCOT historical reported load                | https://www.ercot.com/gridinfo/load/load_hist        |                                  |
 
 ### Output data
@@ -55,7 +56,6 @@ Ssembatya et al. 2024 - Earth's Future [Code]. Zenodo. https://doi.org/10.5281/z
 ## Contributing modeling software
 |  Model              | Version |         Repository Link          | DOI |
 |:-------------------:|:-------:|:----------------------------------------------------------------:|:--------------------------------:|
-| Jones et al., 2022 IM3/HyperFACETS Thermodynamic Global Warming (TGW) Simulation Datasets |         | https://tgw-data.msdlive.org |  https://doi.org/10.1038/s41597-023-02485-5    |
 | GO Model framework (Akdemir et al., 2023) paper and code reference |         | https://iopscience.iop.org/article/10.1088/2753-3751/ad1751/meta |
 
 
