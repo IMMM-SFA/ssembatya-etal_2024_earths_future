@@ -29,20 +29,20 @@ will need to balance the potential for greater resource adequacy risk caused by 
 alongside the benefits (improved efficiency and reductions in emissions).
 
 ## Journal reference
-Ssembatya, H., J. D. Kern, K. Oikonomou, N. Voisin, C. D. Burleyson, and K. Z. Akdemir (2023). The dual impacts of 
+Ssembatya, H., J. D. Kern, K. Oikonomou, N. Voisin, C. D. Burleyson, and K. Z. Akdemir (2024). The dual impacts of 
 space heating electrification and climate change drive uncertainties in peak load behavior and future grid reliability. 
-Submitted to Earth's Future - Jan 2024
+In revision in Earth's Future - Mar 2024
 
 ## Code reference
-Ssembatya, H., J. D. Kern, K. Oikonomou, N. Voisin, C. D. Burleyson, and K. Z. Akdemir (2023). Supporting code for 
-Ssembatya et al. 2024 - TBD [Code]. Zenodo. DOI https://doi.org/10.5281/zenodo.10475841
+Ssembatya, H., J. D. Kern, K. Oikonomou, N. Voisin, C. D. Burleyson, and K. Z. Akdemir (2024). Supporting code for 
+Ssembatya et al. 2024 - Earth's Future [Code]. Zenodo. https://doi.org/10.5281/zenodo.10475841.
 
 ## Data references
 ### Input data
 |       Dataset                                   |               Repository Link                        |               DOI                |
 |:-----------------------------------------------:|:----------------------------------------------------:|:--------------------------------:|
 |   White et al., 2021 model output               | https://data.mendeley.com/datasets/v8mt9d3v6h/1      | 10.17632/v8mt9d3v6h.1            |
-|   Burleyson et al., 2023 Meteorology datasets   | https://www.osti.gov/biblio/1960530                  | https://doi.org/10.57931/1960530 |
+|   Burleyson et al., 2023 Meteorology datasets   | [https://www.osti.gov/biblio/1960530](https://data.msdlive.org/records/cnsy6-0y610)                  | https://doi.org/10.57931/1960530 |
 |   ERCOT historical reported load                | https://www.ercot.com/gridinfo/load/load_hist        |                                  |
 
 ### Output data
