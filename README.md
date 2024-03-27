@@ -54,7 +54,7 @@ Ssembatya et al. 2024 - Earth's Future [Code]. Zenodo. https://doi.org/10.5281/z
 ## Contributing modeling software
 |  Model              | Version |         Repository Link          | DOI |
 |:-------------------:|:-------:|:----------------------------------------------------------------:|:--------------------------------:|
-| Akdemir et al., 2023 Grid Operations (GO) modeling framework | TBD | https://zenodo.org/records/10475965 | https://doi.org/10.5281/zenodo.10475841 |
+| Akdemir et al., 2023 Grid Operations (GO) modeling framework | TBD | https://data.msdlive.org/records/3bj6j-rtb65 | https://doi.org/10.57931/1923267 |
 
 
 ## Reproduce my experiment
