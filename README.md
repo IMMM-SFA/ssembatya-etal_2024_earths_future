@@ -3,8 +3,7 @@
 
 # ssembatya-etal_2024_earths_future
 
-**The Dual Impacts of Space Heating Electrification and Climate Change Drive Uncertainties in Peak Load Behavior and 
-Future Grid Reliability**
+**Dual Impacts of Space Heating Electrification and Climate Change Increase Uncertainties in Peak Load Behavior and Grid Capacity Requirements in Texas**
 
 Henry Ssembatya<sup>1\*</sup>, Jordan D. Kern<sup>1</sup>, Konstantinos Oikonomou<sup>2</sup>, Nathalie Voisin
 <sup>2</sup>, Casey D. Burleyson<sup>2</sup>, and Kerem Z. Akdemir<sup>1</sup>
