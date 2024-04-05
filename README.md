@@ -54,8 +54,7 @@ Ssembatya et al. 2024 - Earth's Future [Code]. Zenodo. https://doi.org/10.5281/z
 ## Contributing modeling software
 |  Model              | Version |         Repository Link          | DOI |
 |:-------------------:|:-------:|:----------------------------------------------------------------:|:--------------------------------:|
-| Ssembatya et al., 2024 Grid Operations (GO) ERCOT model used | v1.0.0 | https://zenodo.org/records/10475965 | https://doi.org/10.5281/zenodo.10475965
-| 
+| Ssembatya et al., 2024 Grid Operations (GO) ERCOT model used | v1.0.0 | https://zenodo.org/records/10475965 | https://doi.org/10.5281/zenodo.10475965 | 
 
 
 ## Reproduce my experiment
