@@ -85,6 +85,7 @@ Use the following scripts to reproduce figures used in this publication.
 |       3        |     `nodal_topology_with_lines_ERCOT_paper.py`     |      Reduced topology framework of the selected GO ERCOT version showing nodes and transmission lines  |
 |       4        |     `pk_seas_hrly_res_results_visuals_ssp3_paper.py`     |      Season of peak hourly residential load for all future scenario simulations  |
 |       5        |     `pk_seas_hrly_tot_results_visuals_ssp3_paper.py`     |      Season of peak hourly total load for all future scenario simulations  |
+|       6        |     `plot_year_examples_paper.py`     |      Comparing weather and load for two selected years  |
 |       7        |     `peak_totload_ssp3_paper.py`     |      Peak hourly total load for all future scenario simulations  |
 |       8a        |     `lol_distribution_rcp85hotterssp3base_paper.py`     |      Nodal location of loss of load on simulation day rcp85hotterssp3_base_3rd_aug_2091  |
 |       8c        |     `lol_distribution_rcp45coolerssp3stdd_paper.py`     |      Nodal location of loss of load on simulation day rcp45coolerssp3_stdd_23rd_dec_2069  |
