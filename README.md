@@ -28,8 +28,8 @@ will need to balance the potential for greater resource adequacy risk caused by 
 alongside the benefits (improved efficiency and reductions in emissions).
 
 ## Journal reference
-Ssembatya, H., J. D. Kern, K. Oikonomou, N. Voisin, C. D. Burleyson, and K. Z. Akdemir (2024). The dual impacts of 
-space heating electrification and climate change drive uncertainties in peak load behavior and future grid reliability. 
+Ssembatya, H., J. D. Kern, K. Oikonomou, N. Voisin, C. D. Burleyson, and K. Z. Akdemir (2024). Dual Impacts of Space Heating
+Electrification and Climate Change Increase Uncertainties in Peak Load Behavior and Grid Capacity Requirements in Texas. 
 In revision in Earth's Future - Mar 2024
 
 ## Code reference
