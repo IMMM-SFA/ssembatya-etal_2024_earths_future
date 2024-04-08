@@ -33,8 +33,8 @@ space heating electrification and climate change drive uncertainties in peak loa
 In revision in Earth's Future - Mar 2024
 
 ## Code reference
-Ssembatya, H., J. D. Kern, K. Oikonomou, N. Voisin, C. D. Burleyson, and K. Z. Akdemir (2024). Supporting code for 
-Ssembatya et al. 2024 - Earth's Future [Code]. Zenodo. https://doi.org/10.5281/zenodo.10475841.
+Ssembatya, H., Burleyson, C., Akdemir, K. Z., Konstantinos, O., Kern, J., & Voisin, N. (2024). Supporting code for 
+Ssembatya et al. 2024 - Earth's Future [Code]. Zenodo. https://doi.org/10.5281/zenodo.10934193
 
 ## Data references
 ### Input data
