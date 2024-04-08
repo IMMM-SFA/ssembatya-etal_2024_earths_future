@@ -34,7 +34,7 @@ In revision in Earth's Future - Mar 2024
 
 ## Code reference
 Ssembatya, H., Burleyson, C., Akdemir, K. Z., Konstantinos, O., Kern, J., & Voisin, N. (2024). Supporting code for 
-Ssembatya et al. 2024 - Earth's Future [Code]. Zenodo. https://doi.org/10.5281/zenodo.10934193
+Ssembatya et al. 2024 - Earth's Future (v1.0.0) [Code]. Zenodo. https://doi.org/10.5281/zenodo.10934193
 
 ## Data references
 ### Input data
