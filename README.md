@@ -14,7 +14,7 @@ Henry Ssembatya<sup>1\*</sup>, Jordan D. Kern<sup>1</sup>, Konstantinos Oikonomo
 \* corresponding author: hssemba@ncsu.edu
 
 ## Abstract
-Abstract Around 60% of households in Texas currently rely on electricity for space heating. Asdecarbonization efforts increase, non‐electrified
+Around 60% of households in Texas currently rely on electricity for space heating. Asdecarbonization efforts increase, non‐electrified
 households could adopt electric heat pumps, significantlyincreasing peak (highest) electricity demand in winter. Simultaneously, anthropogenic climate
 change isexpected to increase temperatures, the potential for summer heat waves, and associated electricity demand forcooling. Uncertainty regarding the
 timing and magnitude of these concurrent changes raises questions abouthow they will jointly affect the seasonality of peak demand, firm capacity requirements,
