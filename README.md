@@ -30,7 +30,7 @@ alongside the benefits (improved efficiency and reductions in emissions).
 ## Journal reference
 Ssembatya, H., Kern, J. D., Oikonomou, K., Voisin, N., Burleyson, C. D., & Akdemir, K. Z. (2024). Dual impacts of space heating
 electrification and climate change increase uncertainties in peak load behavior and grid capacity requirements in Texas.
-Earth's Future, 12(6), e2024EF004443.
+Earth's Future, 12(6), e2024EF004443. https://doi.org/10.1029/2024EF004443
 
 ## Code reference
 Ssembatya, H., Burleyson, C., Akdemir, K. Z., Konstantinos, O., Kern, J., & Voisin, N. (2024). Supporting code for 
