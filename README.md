@@ -14,18 +14,16 @@ Henry Ssembatya<sup>1\*</sup>, Jordan D. Kern<sup>1</sup>, Konstantinos Oikonomo
 \* corresponding author: hssemba@ncsu.edu
 
 ## Abstract
-Around 60% of households in Texas currently rely on electricity for space heating. As decarbonization efforts increase, 
-more households could adopt electric heat pumps, significantly increasing winter electricity demand. Simultaneously, 
-anthropogenic climate change is expected to increase temperatures, the potential for summer heat waves, and associated 
-electricity demand for cooling. Uncertainty regarding the timing and magnitude of these concurrent changes raises 
-questions about how they will jointly affect the seasonality of peak (highest) demand, firm capacity requirements, and 
-grid reliability. This study investigates the net effects of residential space heating electrification and climate 
-change on long-term demand patterns and load shedding potential, using climate change projections, a predictive load 
-model, and a DC OPF model of the Texas grid. Results show that full electrification via adoption of more efficient heat pumps could 
-significantly improve reliability, particularly under hotter futures. Less efficient heat pumps may result in more 
-severe winter peaking events and increased reliability risks. As heating electrification intensifies, system planners 
-will need to balance the potential for greater resource adequacy risk caused by shifts in seasonal peaking behavior 
-alongside the benefits (improved efficiency and reductions in emissions).
+Abstract Around 60% of households in Texas currently rely on electricity for space heating. Asdecarbonization efforts increase, non‐electrified
+households could adopt electric heat pumps, significantlyincreasing peak (highest) electricity demand in winter. Simultaneously, anthropogenic climate
+change isexpected to increase temperatures, the potential for summer heat waves, and associated electricity demand forcooling. Uncertainty regarding the
+timing and magnitude of these concurrent changes raises questions abouthow they will jointly affect the seasonality of peak demand, firm capacity requirements,
+and grid reliability.This study investigates the net effects of residential space heating electrification and climate change on long‐term demand patterns and load
+shedding potential, using climate change projections, a predictive load model,and a direct current optimal power flow (DCOPF) model of the Texas grid. Results show
+that full electrificationof residential space heating by replacing existing fossil fuel use with higher efficiency heat pumps couldsignificantly improve reliability
+under hotter futures. Less efficient heat pumps may result in more severe winterpeaking events and increased reliability risks. As heating electrification intensifies,
+system planners will need tobalance the potential for greater resource adequacy risk caused by shifts in seasonal peaking behavior alongsidethe benefits
+(improved efficiency and reductions in emissions).
 
 ## Journal reference
 Ssembatya, H., Kern, J. D., Oikonomou, K., Voisin, N., Burleyson, C. D., & Akdemir, K. Z. (2024). Dual impacts of space heating
