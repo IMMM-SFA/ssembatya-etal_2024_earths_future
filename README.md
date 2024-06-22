@@ -46,7 +46,7 @@ Ssembatya et al. 2024 - Earth's Future (v1.0.0) [Code]. Zenodo. https://doi.org/
 ### Output data
 |       Dataset                                           |   Repository Link                            |                   DOI                             |
 |:-------------------------------------------------------:|---------------------------------------------:|:-------------------------------------------------:|
-|     ML models load output & GO ERCOT simulations    | https://zenodo.org/records/10150610          | https://doi.org/10.5281/zenodo.10150609 |
+|     ML models load output & GO ERCOT simulations    | https://data.msdlive.org/records/nth03-3ta28     | https://doi.org/10.57931/2331202 |
 
 ## Contributing modeling software
 |  Model              | Version |         Repository Link          | DOI |
